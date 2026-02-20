@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is the master branch so if i chanhe here it doesnt reflect on other brnach
+=======
+first branch
+
+i am on branch oneeeeeeee
+>>>>>>> branch1
